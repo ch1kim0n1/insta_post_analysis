@@ -1,4 +1,4 @@
-# Instagram Post Analyzer (AI Generated)
+# Instagram Post Analyzer
 
 ## Overview
 
